@@ -1,4 +1,4 @@
-package com.vector.model;
+package com.vector.model.cat;
 
 public class CatFact {
     private String fact;
