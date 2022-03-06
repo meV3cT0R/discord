@@ -6,4 +6,5 @@ discord bot made in java with Discord4j Library
 
 #commands
 $join -> joins your voice channel
+
 $play [[link]] -> plays song
